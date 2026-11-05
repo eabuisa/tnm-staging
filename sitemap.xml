@@ -1,9 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://eabuisa.github.io/tnm-staging/</loc>
-    <lastmod>2026-10-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
+<url><loc>https://eabuisa.github.io/tnm-staging/</loc><priority>1.0</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/sites.html</loc><priority>0.8</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/breast-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/lung-non-small-cell-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/prostate-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/colon-and-rectum-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/oropharynx-hpv-mediated-p16-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/oropharynx-p16-negative-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/oral-cavity-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/larynx-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/nasopharynx-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/esophagus-and-esophagogastric-junction-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/stomach-gastric-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/pancreas-exocrine-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/cervix-uteri-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/endometrium-uterine-corpus-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/urinary-bladder-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/kidney-renal-cell-carcinoma-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/melanoma-of-the-skin-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/thyroid-differentiated-papillary-follicular-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/liver-hepatocellular-carcinoma-hcc-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/vulva-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/vagina-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/ovary-fallopian-tube-and-primary-peritoneum-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/gestational-trophoblastic-neoplasia-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/testis-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/penis-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/urethra-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/renal-pelvis-and-ureter-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/adrenal-gland-adrenocortical-carcinoma-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/lung-small-cell-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/thymus-thymoma-and-thymic-carcinoma-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/pleural-mesothelioma-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/merkel-cell-carcinoma-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/cutaneous-squamous-cell-carcinoma-of-the-head-and-neck-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/mucosal-melanoma-of-the-head-and-neck-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/major-salivary-glands-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/maxillary-sinus-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/nasal-cavity-and-ethmoid-sinuses-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/small-intestine-adenocarcinoma-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/appendix-carcinoma-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/anal-canal-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/intrahepatic-cholangiocarcinoma-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/gallbladder-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/perihilar-bile-ducts-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/distal-bile-duct-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/ampulla-of-vater-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/gist-gastric-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/gist-small-intestinal-and-other-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/neuroendocrine-tumor-stomach-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/neuroendocrine-tumor-duodenum-and-ampulla-of-vater-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/neuroendocrine-tumor-jejunum-and-ileum-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/neuroendocrine-tumor-appendix-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/neuroendocrine-tumor-colon-and-rectum-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/neuroendocrine-tumor-pancreas-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/soft-tissue-sarcoma-trunk-and-extremities-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/soft-tissue-sarcoma-retroperitoneum-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/soft-tissue-sarcoma-head-and-neck-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/soft-tissue-sarcoma-abdomen-and-thoracic-visceral-organs-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/bone-sarcoma-appendicular-skeleton-trunk-skull-and-facial-bones-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/bone-sarcoma-pelvis-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/bone-sarcoma-spine-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/uveal-melanoma-choroid-and-ciliary-body-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/uveal-melanoma-iris-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/conjunctival-melanoma-staging.html</loc><priority>0.7</priority></url>
+<url><loc>https://eabuisa.github.io/tnm-staging/hypopharynx-staging.html</loc><priority>0.7</priority></url>
 </urlset>
